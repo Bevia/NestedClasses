@@ -1,5 +1,19 @@
 # NestedClasses
-The 4 types of Java Nested Classes:
+Java supports 2 types of nested classes:
+
+a) Static Nested Classes
+
+b) Non-static Nested Classes OR Inner Classes
+
+Non-static nested classes can be:
+
+a) Member Inner Classes
+
+b) Local Inner Classes
+
+c) Anonymous Inner Classes
+
+In brief, the 4 types of Java Nested Classes shown in this project are:
 
 1)Static Nested Class
 
